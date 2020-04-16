@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Test =  () =>{
+const Test1 =  () =>{
     return(
 <h1>TEST</h1>
     )
     
 }
 
-export default Test
+export default Test1

@@ -1,9 +1,10 @@
 import React from 'react';
-import Test from './test_export'
+
+import {Test2} from './lib/index'
 
 function App() {
   return (
-<Test></Test>
+<Test2></Test2>
   );
 }
 
